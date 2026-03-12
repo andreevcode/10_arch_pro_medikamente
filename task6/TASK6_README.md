@@ -50,3 +50,4 @@
 
 ### Схема контейнеров С4
 [c4_container_classification_pre_analitics_to-be.drawio.xml](c4_container_classification_pre_analitics_to-be.drawio.xml)
+- <img src="c4_container_classification_pre_analitics_to-be.drawio.svg" width="1300">
